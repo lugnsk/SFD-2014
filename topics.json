@@ -2,6 +2,7 @@
     {
         "name": "Илья Лахин",
         "topic": "Papa Carlo — Scala parsing library",
-        "abstract": "Papa Carlo is the first Scala parsing library utilises incremental parsing approach. https://github.com/Eliah-Lakhin/papa-carlo"
+        "abstract": "Papa Carlo is the first Scala parsing library utilises incremental parsing approach",
+        "references": ["https://github.com/Eliah-Lakhin/papa-carlo"]
     }
 ]
