@@ -1,8 +1,16 @@
 [
     {
         "name": "Илья Лахин",
+        "company": "",
         "topic": "Papa Carlo — Scala parsing library",
         "abstract": "Papa Carlo is the first Scala parsing library utilises incremental parsing approach",
         "references": ["https://github.com/Eliah-Lakhin/papa-carlo"]
+    },
+    {
+        "name": "",
+        "company": "2ГИС",
+        "topic": "Открытая веб-картография",
+        "abstract": "Leaflet, OpenStreetMap и API Карт 2ГИС",
+        "references": []
     }
 ]
