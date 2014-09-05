@@ -7,11 +7,18 @@
         "references": ["https://github.com/Eliah-Lakhin/papa-carlo"]
     },
     {
-        "name": "",
+        "name": "Илья Таратухин",
         "company": "2ГИС",
         "topic": "Открытая веб-картография",
         "abstract": "Leaflet, OpenStreetMap и API Карт 2ГИС",
-        "references": []
+        "references": [http://techno.2gis.ru/experts/21]
+    },
+    {
+        "name": "Павел Сташевский",
+        "company": "2ГИС",
+        "topic": "OpenSource-инструменты тестирования для веба",
+        "abstract": "",
+        "references": [http://techno.2gis.ru/experts/19]
     },
     {
         "name": "Алексей Русецкий",
