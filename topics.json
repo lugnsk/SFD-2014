@@ -26,5 +26,12 @@
         "topic": "Kolab Groupware — как это нет альтернатив?",
         "abstract": "Kolab Groupware — свободное решение для корпоративного взаимодействия",
         "references": ["http://kolab.org","https://mykolab.com"]
+    },
+    {
+        "name": "Павел Новиков",
+        "company": "",
+        "topic": "Opensource translator from C# to Javascript",
+        "abstract": "",
+        "references": ["https://github.com/pavel-b-novikov/Stratageme15"]
     }
 ]
