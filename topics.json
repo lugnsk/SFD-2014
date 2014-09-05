@@ -12,5 +12,12 @@
         "topic": "Открытая веб-картография",
         "abstract": "Leaflet, OpenStreetMap и API Карт 2ГИС",
         "references": []
+    },
+    {
+        "name": "Алексей Русецкий",
+        "company": "",
+        "topic": "Kolab Groupware — как это нет альтернатив?",
+        "abstract": "Kolab Groupware — свободное решение для корпоративного взаимодействия",
+        "references": ["http://kolab.org","https://mykolab.com"]
     }
 ]
