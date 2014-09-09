@@ -33,5 +33,12 @@
         "topic": "Opensource translator from C# to Javascript",
         "abstract": "",
         "references": ["https://github.com/pavel-b-novikov/Stratageme15"]
+    },
+    {
+        "name": "Andrey Platov, President Xored Software Inc. Eclipse DLTK Project Lead",
+        "company": "Xored",
+        "topic": "Как мы заработали миллионы долларов создавая Open Source решения",
+        "abstract": "Развенчиваем мифы: Open Source — это про деньги, а не про то, что вы там себе думаете. Как участие и создание собственных Оpen Source решений может помочь вам в карьере, бизнесе, и личной жизни",
+        "references": ["http://www.xored.com"]
     }
 ]
