@@ -46,5 +46,13 @@
         "abstract": "Развенчиваем мифы: Open Source — это про деньги, а не про то, что вы там себе думаете. Как участие и создание собственных Оpen Source решений может помочь вам в карьере, бизнесе, и личной жизни",
         "references": ["http://www.xored.com"],
         "place": ["NSU"]
-    }
+    },
+    {
+        "name": "Максим Бакаев",
+        "company": "VGroup",
+        "topic": "История развития и применения CMS: Drupal и другие",
+        "abstract": "",
+        "references": ["http://vgroup.ru/"],
+        "place": ["NSTU"]
+    },
 ]
