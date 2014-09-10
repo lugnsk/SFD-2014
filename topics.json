@@ -29,7 +29,7 @@
         "topic": "Kolab Groupware — как это нет альтернатив?",
         "abstract": "Kolab Groupware — свободное решение для корпоративного взаимодействия",
         "references": ["http://kolab.org","https://mykolab.com"],
-        "place": []
+        "place": ["NSTU", "NSU"]
     },
     {
         "name": "Павел Новиков",
@@ -37,7 +37,7 @@
         "topic": "Opensource translator from C# to Javascript",
         "abstract": "",
         "references": ["https://github.com/pavel-b-novikov/Stratageme15"],
-        "place": []
+        "place": ["NSTU", "NSU"]
     },
     {
         "name": "Andrey Platov, President Xored Software Inc. Eclipse DLTK Project Lead",
